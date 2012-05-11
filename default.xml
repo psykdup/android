@@ -178,9 +178,9 @@
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
-  <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" revision="ics"  />
+  <project path="hardware/libhardware_legacy" name="TeamChopsticks/android_hardware_libhardware_legacy" revision="ics"  />
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
-  <project path="hardware/qcom/display" name="Kali-/android_hardware_qcom_display" revision="ics_chocolate_M8260AAABQNLZA30150"  />
+  <project path="hardware/qcom/display" name="TeamChopsticks/android_hardware_qcom_display" revision="ics"  />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
   <project path="hardware/qcom/media" name="TeamChopsticks/android_hardware_qcom_media" revision="ics"  />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
