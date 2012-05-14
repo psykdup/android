@@ -268,7 +268,7 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
-  <project path="device/samsung/msm8660-common" name="psykdup/cm_device_samsung_msm8660-common" revision="ics" />
+  <project path="device/samsung/msm8660-common" name="TeamChopsticks/cm_device_samsung_msm8660-common" revision="ics" />
   <project path="device/samsung/hercules" name="TeamChopsticks/cm_device_samsung_hercules" revision="ics" />
   <project path="device/samsung/skyrocket" name="TeamChopsticks/cm_device_samsung_skyrocket" revision="ics" />
 
